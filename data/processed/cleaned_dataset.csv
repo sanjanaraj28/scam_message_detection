@@ -1,0 +1,744 @@
+text,label,scam_category,caller_type,audio_duration,urgency_level,contains_blackmail
+"Hello ji Beta ghar aa gaya hoon, darwaza khol do.",0,none,family,34,low,False
+Namaste ma'am Project ka review meeting kal 4 baje hai kya?,0,none,delivery_agent,54,low,False
+Ji namaskar Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,relative,other_scammer,92,medium,False
+"Ji namaskar Doctor appointment kal 9 baje hai, fasting rehna.",0,none,delivery_agent,47,low,False
+"Special Investigation Team se bol raha hoon. Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,bank_kyc,bank_scammer,74,medium,False
+"Madam ek minute Mummy main office pahunch gaya, aaj thoda late ho jaunga.",0,none,office_colleague,75,low,False
+"Hello ma'am Papa train mein baith gaya hoon, safely pahunch jaunga.",0,none,delivery_agent,88,low,False
+"Delhi Police se bol raha hoon. Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,amazon,other_scammer,143,medium,False
+Ji namaskar Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,93,high,True
+"Ji haan suniye Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,aadhaar,other_scammer,65,medium,False
+"Police headquarters se bol raha hoon. Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,bank_kyc,bank_scammer,154,medium,False
+"Hello sir Papa train mein baith gaya hoon, safely pahunch jaunga.",0,none,friend,53,low,False
+"Ji haan suniye Sir kal subah 10 baje meeting hai, agenda mail kar diya.",0,none,friend,25,low,False
+Aap sun rahe hain na? Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,235,medium,False
+"Namaste ma'am Doctor appointment kal 9 baje hai, fasting rehna.",0,none,doctor_clinic,57,low,False
+"Namaste sir Doctor appointment kal 9 baje hai, fasting rehna.",0,none,family,65,low,False
+"Hello ma'am Mummy main office pahunch gaya, aaj thoda late ho jaunga.",0,none,doctor_clinic,18,low,False
+Hello sir Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,177,medium,False
+Hello ji Aapka order deliver ho chuka hai. Feedback de dena.,0,none,friend,52,low,False
+Dhyan se suniye Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,249,high,True
+CBI se bol raha hoon. Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,139,high,True
+Ji namaskar Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,175,high,True
+"Hello ma'am Beta ghar aa gaya hoon, darwaza khol do.",0,none,delivery_agent,34,low,False
+"Aap sun rahe hain na? Beta ghar aa gaya hoon, darwaza khol do.",0,none,office_colleague,82,low,False
+"Sir ek minute suniye Doctor appointment kal 9 baje hai, fasting rehna.",0,none,delivery_agent,22,low,False
+Namaste ma'am Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,195,medium,False
+"Madam ek minute Sir kal subah 10 baje meeting hai, agenda mail kar diya.",0,none,delivery_agent,74,low,False
+"Aap sun rahe hain na? Mummy main office pahunch gaya, aaj thoda late ho jaunga.",0,none,friend,88,low,False
+"Ji namaskar Papa train mein baith gaya hoon, safely pahunch jaunga.",0,none,delivery_agent,52,low,False
+ACP Sharma bol raha hoon. Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,160,high,True
+"Ji namaskar Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,bank_kyc,bank_scammer,162,medium,False
+Inspector Rajesh Kumar bol raha hoon. Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,bank_kyc,bank_scammer,136,medium,False
+Cyber Crime Department se bol raha hoon. Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,lottery,other_scammer,123,medium,False
+Sir ek minute suniye Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,102,high,False
+"Namaste sir Papa train mein baith gaya hoon, safely pahunch jaunga.",0,none,office_colleague,75,low,False
+Sir ek minute suniye Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,bank_kyc,bank_scammer,68,medium,False
+National Cyber Cell se bol raha hoon. Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,137,high,True
+Hello ji Cab 3 minute mein pahunch raha hai.,0,none,doctor_clinic,28,low,False
+"Hello ji Bhai aaj shaam ko milte hain, coffee pe baat karte hain.",0,none,delivery_agent,76,low,False
+"Ji namaskar Mummy main office pahunch gaya, aaj thoda late ho jaunga.",0,none,friend,38,low,False
+Dhyan se suniye Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,216,medium,False
+Madam ek minute Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,250,high,True
+Dhyan se suniye Cab 3 minute mein pahunch raha hai.,0,none,office_colleague,87,low,False
+Namaste sir Cab 3 minute mein pahunch raha hai.,0,none,office_colleague,28,low,False
+"Sir ek minute suniye Beta ghar aa gaya hoon, darwaza khol do.",0,none,friend,18,low,False
+Madam ek minute Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,210,high,False
+Law enforcement se bol raha hoon. Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,188,high,True
+"Namaste ma'am Mummy main office pahunch gaya, aaj thoda late ho jaunga.",0,none,doctor_clinic,60,low,False
+"Hello ji Mummy main office pahunch gaya, aaj thoda late ho jaunga.",0,none,family,77,low,False
+Delhi Police se bol raha hoon. Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,251,high,True
+"Hello sir Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,lottery,other_scammer,112,medium,False
+"Ji namaskar School fees ki last date kal hai, payment kar dena.",0,none,family,38,low,False
+"Hello ma'am Doctor appointment kal 9 baje hai, fasting rehna.",0,none,family,67,low,False
+Namaste ma'am National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,191,high,False
+Madam ek minute Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,258,high,False
+"Aap sun rahe hain na? Papa train mein baith gaya hoon, safely pahunch jaunga.",0,none,doctor_clinic,33,low,False
+"Madam ek minute School fees ki last date kal hai, payment kar dena.",0,none,doctor_clinic,53,low,False
+Namaste ma'am Aapka order deliver ho chuka hai. Feedback de dena.,0,none,family,69,low,False
+"Namaste ma'am School fees ki last date kal hai, payment kar dena.",0,none,doctor_clinic,60,low,False
+"Hello sir Bhai aaj shaam ko milte hain, coffee pe baat karte hain.",0,none,friend,21,low,False
+"Ji haan suniye Papa train mein baith gaya hoon, safely pahunch jaunga.",0,none,friend,33,low,False
+"Hello sir Beta ghar aa gaya hoon, darwaza khol do.",0,none,doctor_clinic,82,low,False
+Dhyan se suniye Aapka order deliver ho chuka hai. Feedback de dena.,0,none,doctor_clinic,18,low,False
+Ji haan suniye Aapka order deliver ho chuka hai. Feedback de dena.,0,none,family,84,low,False
+Hello ma'am Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,260,medium,False
+Aap sun rahe hain na? Aapka order deliver ho chuka hai. Feedback de dena.,0,none,friend,95,low,False
+"Namaste sir Bhai aaj shaam ko milte hain, coffee pe baat karte hain.",0,none,family,25,low,False
+Sir ek minute suniye Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,bank_kyc,bank_scammer,82,medium,False
+Sir ek minute suniye Cab 3 minute mein pahunch raha hai.,0,none,delivery_agent,41,low,False
+"Madam ek minute Beta ghar aa gaya hoon, darwaza khol do.",0,none,delivery_agent,95,low,False
+Namaste sir Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,152,medium,False
+"Hello sir School fees ki last date kal hai, payment kar dena.",0,none,office_colleague,30,low,False
+"Namaste sir Mummy main office pahunch gaya, aaj thoda late ho jaunga.",0,none,family,83,low,False
+Aap sun rahe hain na? Project ka review meeting kal 4 baje hai kya?,0,none,doctor_clinic,33,low,False
+Hello sir Cab 3 minute mein pahunch raha hai.,0,none,friend,73,low,False
+"Hello ma'am Bhai aaj shaam ko milte hain, coffee pe baat karte hain.",0,none,friend,84,low,False
+Ji haan suniye Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,149,high,True
+"Namaste ma'am Beta ghar aa gaya hoon, darwaza khol do.",0,none,friend,15,low,False
+"Ji namaskar Sir kal subah 10 baje meeting hai, agenda mail kar diya.",0,none,friend,17,low,False
+Aap sun rahe hain na? Cab 3 minute mein pahunch raha hai.,0,none,doctor_clinic,88,low,False
+Hello sir Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,amazon,other_scammer,114,medium,False
+Namaste sir Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,194,high,True
+"Ji namaskar Beta ghar aa gaya hoon, darwaza khol do.",0,none,family,87,low,False
+Delhi Police se bol raha hoon. Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,241,high,False
+"Aap sun rahe hain na? Sir kal subah 10 baje meeting hai, agenda mail kar diya.",0,none,doctor_clinic,42,low,False
+Hello ji Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,relative,other_scammer,88,medium,False
+Special Investigation Team se bol raha hoon. Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,108,high,False
+Hello ji Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,221,high,True
+Namaste ma'am Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,amazon,other_scammer,102,medium,False
+Law enforcement se bol raha hoon. Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,98,high,True
+National Cyber Cell se bol raha hoon. Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,155,medium,False
+"Ji haan suniye Beta ghar aa gaya hoon, darwaza khol do.",0,none,office_colleague,70,low,False
+"Ji namaskar Bhai aaj shaam ko milte hain, coffee pe baat karte hain.",0,none,delivery_agent,32,low,False
+"Special Investigation Team se bol raha hoon. Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,lottery,other_scammer,68,medium,False
+"Dhyan se suniye Mummy main office pahunch gaya, aaj thoda late ho jaunga.",0,none,friend,60,low,False
+"Hello ji Sir kal subah 10 baje meeting hai, agenda mail kar diya.",0,none,delivery_agent,52,low,False
+"Police headquarters se bol raha hoon. Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,bank_kyc,bank_scammer,99,medium,False
+"Aap sun rahe hain na? Bhai aaj shaam ko milte hain, coffee pe baat karte hain.",0,none,delivery_agent,64,low,False
+"Dhyan se suniye Sir kal subah 10 baje meeting hai, agenda mail kar diya.",0,none,doctor_clinic,89,low,False
+Ji haan suniye Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,236,high,False
+Ji namaskar Project ka review meeting kal 4 baje hai kya?,0,none,delivery_agent,70,low,False
+National Cyber Cell se bol raha hoon. Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,180,high,True
+Delhi Police se bol raha hoon. Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,123,medium,False
+National Cyber Cell se bol raha hoon. Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,145,high,False
+Law enforcement se bol raha hoon. Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,229,high,True
+Hello ma'am Project ka review meeting kal 4 baje hai kya?,0,none,office_colleague,17,low,False
+Law enforcement se bol raha hoon. Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,123,high,False
+"ACP Sharma bol raha hoon. Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,relative,other_scammer,71,medium,False
+Special Investigation Team se bol raha hoon. Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,129,high,True
+"Sir ek minute suniye School fees ki last date kal hai, payment kar dena.",0,none,doctor_clinic,63,low,False
+Madam ek minute Cab 3 minute mein pahunch raha hai.,0,none,doctor_clinic,24,low,False
+"Namaste ma'am Papa train mein baith gaya hoon, safely pahunch jaunga.",0,none,delivery_agent,69,low,False
+Hello ji Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,160,high,True
+Madam ek minute Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,lottery,other_scammer,77,medium,False
+Hello ji Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,249,high,True
+Crime Branch se bol raha hoon. Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,233,high,True
+Namaste sir Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,172,medium,False
+Sir ek minute suniye Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,bank_kyc,bank_scammer,123,medium,False
+Inspector Rajesh Kumar bol raha hoon. Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,158,high,True
+Crime Branch se bol raha hoon. Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,164,medium,False
+"Dhyan se suniye Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,amazon,other_scammer,139,medium,False
+Ji namaskar Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,241,medium,False
+Madam ek minute Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,bank_kyc,bank_scammer,83,medium,False
+"Ji haan suniye Doctor appointment kal 9 baje hai, fasting rehna.",0,none,friend,75,low,False
+Madam ek minute Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,96,high,True
+"Namaste sir Beta ghar aa gaya hoon, darwaza khol do.",0,none,office_colleague,78,low,False
+CBI se bol raha hoon. Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,160,high,False
+Madam ek minute Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,231,medium,False
+"Hello ji Papa train mein baith gaya hoon, safely pahunch jaunga.",0,none,office_colleague,18,low,False
+"Madam ek minute Doctor appointment kal 9 baje hai, fasting rehna.",0,none,delivery_agent,76,low,False
+Hello ma'am Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,168,medium,False
+Namaste ma'am Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,bank_kyc,bank_scammer,90,medium,False
+Hello ji Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,168,high,True
+Hello ji Project ka review meeting kal 4 baje hai kya?,0,none,family,67,low,False
+Special Investigation Team se bol raha hoon. Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,192,medium,False
+Ji namaskar Cab 3 minute mein pahunch raha hai.,0,none,doctor_clinic,18,low,False
+"Ji haan suniye Mummy main office pahunch gaya, aaj thoda late ho jaunga.",0,none,delivery_agent,48,low,False
+Ji haan suniye Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,152,high,True
+Hello ma'am Aapka order deliver ho chuka hai. Feedback de dena.,0,none,delivery_agent,65,low,False
+Sir ek minute suniye Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,154,high,False
+Cyber Crime Department se bol raha hoon. Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,117,high,True
+"Hello ji Doctor appointment kal 9 baje hai, fasting rehna.",0,none,family,88,low,False
+Hello sir Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,151,high,True
+Law enforcement se bol raha hoon. Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,211,high,False
+Hello ma'am Cab 3 minute mein pahunch raha hai.,0,none,family,89,low,False
+Madam ek minute Aapka order deliver ho chuka hai. Feedback de dena.,0,none,friend,20,low,False
+Police headquarters se bol raha hoon. Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,149,medium,False
+Police headquarters se bol raha hoon. Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,bank_kyc,bank_scammer,76,medium,False
+Delhi Police se bol raha hoon. Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,192,high,False
+Law enforcement se bol raha hoon. Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,95,high,True
+Hello ma'am National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,244,high,False
+Madam ek minute Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,253,high,True
+Aap sun rahe hain na? Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,162,high,False
+Namaste sir Project ka review meeting kal 4 baje hai kya?,0,none,doctor_clinic,65,low,False
+Hello ji Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,lottery,other_scammer,86,medium,False
+"Aap sun rahe hain na? Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,lottery,other_scammer,102,medium,False
+ACP Sharma bol raha hoon. Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,bank_kyc,bank_scammer,155,medium,False
+"Namaste ma'am Bhai aaj shaam ko milte hain, coffee pe baat karte hain.",0,none,family,31,low,False
+CBI se bol raha hoon. Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,bank_kyc,bank_scammer,95,medium,False
+"Hello ma'am School fees ki last date kal hai, payment kar dena.",0,none,family,29,low,False
+Hello ma'am Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,153,high,True
+"Namaste sir School fees ki last date kal hai, payment kar dena.",0,none,friend,18,low,False
+Cyber Crime Department se bol raha hoon. Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,156,medium,False
+Ji namaskar Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,250,high,True
+Dhyan se suniye Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,bank_kyc,bank_scammer,146,medium,False
+"Hello sir Mummy main office pahunch gaya, aaj thoda late ho jaunga.",0,none,family,37,low,False
+Dhyan se suniye Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,205,high,False
+National Cyber Cell se bol raha hoon. Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,251,high,False
+Police headquarters se bol raha hoon. Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,185,high,True
+Hello ji Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,224,high,False
+Aap sun rahe hain na? Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,102,medium,False
+Ji haan suniye Project ka review meeting kal 4 baje hai kya?,0,none,office_colleague,63,low,False
+Aap sun rahe hain na? Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,234,high,True
+ACP Sharma bol raha hoon. Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,lottery,other_scammer,76,medium,False
+Namaste ma'am Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,230,high,True
+National Cyber Cell se bol raha hoon. Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,bank_kyc,bank_scammer,157,medium,False
+Delhi Police se bol raha hoon. Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,162,high,True
+Aap sun rahe hain na? Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,102,medium,False
+Police headquarters se bol raha hoon. Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,251,medium,False
+Namaste ma'am Cab 3 minute mein pahunch raha hai.,0,none,delivery_agent,44,low,False
+Hello ma'am Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,amazon,other_scammer,101,medium,False
+Namaste ma'am Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,258,high,True
+Namaste sir Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,156,high,True
+Hello ji National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,235,medium,False
+"Crime Branch se bol raha hoon. Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,amazon,other_scammer,80,medium,False
+"Hello sir Sir kal subah 10 baje meeting hai, agenda mail kar diya.",0,none,friend,75,low,False
+Hello sir Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,192,medium,False
+Delhi Police se bol raha hoon. Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,bank_kyc,bank_scammer,95,medium,False
+Hello ma'am Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,120,medium,False
+"Sir ek minute suniye Bhai aaj shaam ko milte hain, coffee pe baat karte hain.",0,none,friend,95,low,False
+Namaste sir National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,111,medium,False
+Aap sun rahe hain na? Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,251,high,True
+"Dhyan se suniye Bhai aaj shaam ko milte hain, coffee pe baat karte hain.",0,none,doctor_clinic,55,low,False
+Hello ji Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,152,medium,False
+Hello sir Aapka order deliver ho chuka hai. Feedback de dena.,0,none,office_colleague,67,low,False
+Hello ji Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,249,medium,False
+"Namaste sir Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,lottery,other_scammer,145,medium,False
+Ji namaskar Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,154,high,True
+"Hello ji Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,amazon,other_scammer,123,medium,False
+"National Cyber Cell se bol raha hoon. Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,relative,other_scammer,120,medium,False
+Hello ma'am Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,254,medium,False
+Hello sir Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,260,high,True
+"Dhyan se suniye Papa train mein baith gaya hoon, safely pahunch jaunga.",0,none,family,19,low,False
+Hello ma'am Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,155,high,True
+Crime Branch se bol raha hoon. Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,relative,other_scammer,109,medium,False
+Madam ek minute Project ka review meeting kal 4 baje hai kya?,0,none,friend,79,low,False
+"Ji namaskar Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,amazon,other_scammer,75,medium,False
+Hello sir Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,104,high,True
+Namaste sir Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,bank_kyc,bank_scammer,117,medium,False
+Namaste ma'am Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,relative,other_scammer,82,medium,False
+Aap sun rahe hain na? Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,bank_kyc,bank_scammer,161,medium,False
+"CBI se bol raha hoon. Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,relative,other_scammer,82,medium,False
+Madam ek minute Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,165,high,False
+Ji haan suniye Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,153,high,True
+"Madam ek minute Bhai aaj shaam ko milte hain, coffee pe baat karte hain.",0,none,family,23,low,False
+"Inspector Rajesh Kumar bol raha hoon. Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,bank_kyc,bank_scammer,91,medium,False
+Hello ji Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,lottery,other_scammer,123,medium,False
+"Aap sun rahe hain na? School fees ki last date kal hai, payment kar dena.",0,none,family,93,low,False
+"Sir ek minute suniye Mummy main office pahunch gaya, aaj thoda late ho jaunga.",0,none,family,48,low,False
+Ji namaskar Aapka order deliver ho chuka hai. Feedback de dena.,0,none,friend,72,low,False
+Police headquarters se bol raha hoon. Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,aadhaar,other_scammer,73,medium,False
+Police headquarters se bol raha hoon. Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,210,high,False
+Hello ma'am Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,96,medium,False
+Special Investigation Team se bol raha hoon. Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,192,high,True
+"Ji haan suniye Bhai aaj shaam ko milte hain, coffee pe baat karte hain.",0,none,office_colleague,50,low,False
+Inspector Rajesh Kumar bol raha hoon. Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,158,high,True
+Ji haan suniye Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,252,medium,False
+Hello sir Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,149,high,True
+Ji namaskar Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,113,medium,False
+"Hello sir Doctor appointment kal 9 baje hai, fasting rehna.",0,none,friend,15,low,False
+Namaste sir Aapka order deliver ho chuka hai. Feedback de dena.,0,none,doctor_clinic,22,low,False
+Delhi Police se bol raha hoon. Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,207,medium,False
+Madam ek minute Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,118,high,False
+ACP Sharma bol raha hoon. Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,181,medium,False
+Dhyan se suniye Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,bank_kyc,bank_scammer,119,medium,False
+Namaste sir Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,113,high,False
+"Aap sun rahe hain na? Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,aadhaar,other_scammer,146,medium,False
+Delhi Police se bol raha hoon. Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,91,medium,False
+Dhyan se suniye Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,194,medium,False
+Ji namaskar Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,111,high,True
+Sir ek minute suniye Project ka review meeting kal 4 baje hai kya?,0,none,friend,84,low,False
+"Namaste sir Sir kal subah 10 baje meeting hai, agenda mail kar diya.",0,none,friend,49,low,False
+Hello sir Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,bank_kyc,bank_scammer,119,medium,False
+Inspector Rajesh Kumar bol raha hoon. Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,165,medium,False
+"Madam ek minute Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,aadhaar,other_scammer,94,medium,False
+CBI se bol raha hoon. Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,212,high,True
+"Sir ek minute suniye Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,lottery,other_scammer,150,medium,False
+Sir ek minute suniye Aapka order deliver ho chuka hai. Feedback de dena.,0,none,friend,88,low,False
+CBI se bol raha hoon. Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,179,high,True
+"Namaste ma'am Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,lottery,other_scammer,141,medium,False
+"Madam ek minute Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,lottery,other_scammer,60,medium,False
+Aap sun rahe hain na? Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,173,high,False
+Delhi Police se bol raha hoon. Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,200,medium,False
+Namaste ma'am Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,162,high,False
+Madam ek minute Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,119,medium,False
+Sir ek minute suniye Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,200,high,True
+Police headquarters se bol raha hoon. Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,92,high,True
+Ji haan suniye Cab 3 minute mein pahunch raha hai.,0,none,friend,40,low,False
+Hello ji Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,205,high,True
+Hello ma'am Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,249,medium,False
+"Namaste ma'am Sir kal subah 10 baje meeting hai, agenda mail kar diya.",0,none,family,83,low,False
+National Cyber Cell se bol raha hoon. Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,141,high,False
+Ji namaskar Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,bank_kyc,bank_scammer,114,medium,False
+"Dhyan se suniye Beta ghar aa gaya hoon, darwaza khol do.",0,none,office_colleague,18,low,False
+Inspector Rajesh Kumar bol raha hoon. Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,143,high,False
+Police headquarters se bol raha hoon. Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,bank_kyc,bank_scammer,106,medium,False
+Aap sun rahe hain na? Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,aadhaar,other_scammer,98,medium,False
+Hello ji Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,222,high,False
+CBI se bol raha hoon. National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,150,high,False
+Aap sun rahe hain na? Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,145,medium,False
+Inspector Rajesh Kumar bol raha hoon. National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,104,high,False
+Delhi Police se bol raha hoon. Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,amazon,other_scammer,92,medium,False
+Namaste sir Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,119,high,False
+Ji namaskar Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,237,high,False
+"Dhyan se suniye Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,aadhaar,other_scammer,74,medium,False
+"Hello ma'am Sir kal subah 10 baje meeting hai, agenda mail kar diya.",0,none,office_colleague,77,low,False
+National Cyber Cell se bol raha hoon. Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,255,medium,False
+ACP Sharma bol raha hoon. Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,bank_kyc,bank_scammer,79,medium,False
+Madam ek minute National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,204,medium,False
+Hello ji Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,94,medium,False
+Police headquarters se bol raha hoon. Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,200,medium,False
+"Namaste ma'am Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,bank_kyc,bank_scammer,152,medium,False
+Cyber Crime Department se bol raha hoon. Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,228,high,True
+Dhyan se suniye Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,176,high,True
+Dhyan se suniye Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,233,high,True
+Dhyan se suniye Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,250,high,False
+Namaste sir Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,240,high,False
+Ji haan suniye Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,134,medium,False
+Delhi Police se bol raha hoon. Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,111,medium,False
+Sir ek minute suniye Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,210,high,True
+Hello ma'am Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,95,high,True
+Law enforcement se bol raha hoon. Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,191,medium,False
+"Sir ek minute suniye Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,lottery,other_scammer,80,medium,False
+Aap sun rahe hain na? Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,109,high,True
+"Aap sun rahe hain na? Doctor appointment kal 9 baje hai, fasting rehna.",0,none,family,50,low,False
+"Crime Branch se bol raha hoon. Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,bank_kyc,bank_scammer,119,medium,False
+Ji namaskar Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,123,medium,False
+Special Investigation Team se bol raha hoon. Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,169,high,True
+National Cyber Cell se bol raha hoon. Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,181,high,True
+Madam ek minute Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,132,high,True
+National Cyber Cell se bol raha hoon. Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,237,high,False
+Namaste ma'am Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,204,high,True
+"Dhyan se suniye School fees ki last date kal hai, payment kar dena.",0,none,friend,93,low,False
+Law enforcement se bol raha hoon. Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,226,high,True
+Inspector Rajesh Kumar bol raha hoon. Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,105,high,True
+Hello ji Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,212,medium,False
+"Dhyan se suniye Doctor appointment kal 9 baje hai, fasting rehna.",0,none,office_colleague,76,low,False
+Ji haan suniye Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,relative,other_scammer,95,medium,False
+CBI se bol raha hoon. Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,117,medium,False
+"Hello ji School fees ki last date kal hai, payment kar dena.",0,none,delivery_agent,71,low,False
+Hello ma'am Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,relative,other_scammer,114,medium,False
+Inspector Rajesh Kumar bol raha hoon. Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,150,medium,False
+Dhyan se suniye Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,260,high,True
+Ji haan suniye Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,171,high,True
+Namaste ma'am Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,168,medium,False
+Ji namaskar Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,171,high,False
+Dhyan se suniye Project ka review meeting kal 4 baje hai kya?,0,none,delivery_agent,32,low,False
+Namaste ma'am Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,183,medium,False
+Ji namaskar Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,bank_kyc,bank_scammer,143,medium,False
+Sir ek minute suniye Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,126,high,False
+Namaste ma'am Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,219,high,False
+Namaste sir Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,151,high,True
+"Sir ek minute suniye Papa train mein baith gaya hoon, safely pahunch jaunga.",0,none,doctor_clinic,80,low,False
+Hello sir Project ka review meeting kal 4 baje hai kya?,0,none,delivery_agent,19,low,False
+Hello sir Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,140,high,False
+Sir ek minute suniye Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,161,medium,False
+Crime Branch se bol raha hoon. Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,247,medium,False
+ACP Sharma bol raha hoon. Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,147,medium,False
+Sir ek minute suniye Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,109,high,True
+Crime Branch se bol raha hoon. Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,258,high,False
+National Cyber Cell se bol raha hoon. Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,128,high,True
+Namaste ma'am Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,121,high,True
+Inspector Rajesh Kumar bol raha hoon. Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,141,medium,False
+"Hello ji Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,amazon,other_scammer,98,medium,False
+"Hello sir Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,amazon,other_scammer,73,medium,False
+Namaste sir Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,236,high,True
+Namaste sir Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,143,medium,False
+Namaste ma'am Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,190,high,False
+Delhi Police se bol raha hoon. National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,232,medium,False
+National Cyber Cell se bol raha hoon. Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,132,medium,False
+"Madam ek minute Papa train mein baith gaya hoon, safely pahunch jaunga.",0,none,office_colleague,77,low,False
+Law enforcement se bol raha hoon. Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,150,medium,False
+Ji namaskar Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,206,high,True
+Inspector Rajesh Kumar bol raha hoon. Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,163,high,False
+Hello ma'am Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,203,medium,False
+Hello ma'am Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,amazon,other_scammer,65,medium,False
+Ji haan suniye Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,147,high,False
+National Cyber Cell se bol raha hoon. Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,lottery,other_scammer,134,medium,False
+Ji namaskar Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,189,high,False
+Dhyan se suniye Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,203,medium,False
+National Cyber Cell se bol raha hoon. Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,192,medium,False
+Hello sir Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,100,high,True
+Crime Branch se bol raha hoon. Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,220,high,False
+Madam ek minute Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,226,high,True
+ACP Sharma bol raha hoon. Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,104,high,True
+"ACP Sharma bol raha hoon. Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,amazon,other_scammer,93,medium,False
+Namaste sir Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,bank_kyc,bank_scammer,137,medium,False
+Namaste sir Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,255,medium,False
+Special Investigation Team se bol raha hoon. Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,248,medium,False
+Hello ma'am Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,148,medium,False
+Namaste sir Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,242,medium,False
+Namaste sir Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,180,medium,False
+Law enforcement se bol raha hoon. Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,149,high,False
+Ji haan suniye Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,98,high,False
+Hello ji Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,233,high,False
+Police headquarters se bol raha hoon. Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,240,medium,False
+Sir ek minute suniye Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,111,medium,False
+ACP Sharma bol raha hoon. Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,115,high,False
+Sir ek minute suniye Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,122,high,True
+Cyber Crime Department se bol raha hoon. Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,153,high,False
+Ji namaskar Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,249,medium,False
+Cyber Crime Department se bol raha hoon. Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,100,high,True
+Cyber Crime Department se bol raha hoon. Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,124,medium,False
+Namaste ma'am Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,165,medium,False
+Ji haan suniye Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,255,high,False
+Special Investigation Team se bol raha hoon. Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,lottery,other_scammer,57,medium,False
+Ji namaskar Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,128,medium,False
+Sir ek minute suniye Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,149,medium,False
+Namaste sir Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,142,high,True
+Police headquarters se bol raha hoon. Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,193,medium,False
+"Cyber Crime Department se bol raha hoon. Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,bank_kyc,bank_scammer,76,medium,False
+Crime Branch se bol raha hoon. Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,191,medium,False
+Dhyan se suniye Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,116,medium,False
+"CBI se bol raha hoon. Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,lottery,other_scammer,143,medium,False
+Ji namaskar Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,193,high,False
+Delhi Police se bol raha hoon. Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,bank_kyc,bank_scammer,147,medium,False
+Special Investigation Team se bol raha hoon. Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,186,high,True
+Special Investigation Team se bol raha hoon. Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,116,high,True
+Hello sir Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,172,medium,False
+ACP Sharma bol raha hoon. Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,237,high,True
+CBI se bol raha hoon. Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,189,high,True
+Ji haan suniye Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,208,high,False
+"Ji haan suniye School fees ki last date kal hai, payment kar dena.",0,none,office_colleague,55,low,False
+Hello sir Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,138,high,False
+Law enforcement se bol raha hoon. Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,relative,other_scammer,55,medium,False
+ACP Sharma bol raha hoon. Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,95,medium,False
+"Sir ek minute suniye Sir kal subah 10 baje meeting hai, agenda mail kar diya.",0,none,friend,77,low,False
+ACP Sharma bol raha hoon. Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,158,high,False
+Hello sir Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,250,medium,False
+Hello ma'am Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,240,high,False
+Sir ek minute suniye Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,205,medium,False
+Cyber Crime Department se bol raha hoon. Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,lottery,other_scammer,111,medium,False
+"Hello ma'am Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,lottery,other_scammer,63,medium,False
+"Law enforcement se bol raha hoon. Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,bank_kyc,bank_scammer,75,medium,False
+Crime Branch se bol raha hoon. Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,aadhaar,other_scammer,58,medium,False
+Inspector Rajesh Kumar bol raha hoon. Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,203,medium,False
+Namaste ma'am Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,258,medium,False
+CBI se bol raha hoon. Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,156,high,True
+Delhi Police se bol raha hoon. Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,107,high,False
+Namaste ma'am Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,243,medium,False
+Ji haan suniye Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,lottery,other_scammer,139,medium,False
+Delhi Police se bol raha hoon. Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,169,high,False
+Sir ek minute suniye Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,232,high,False
+National Cyber Cell se bol raha hoon. Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,173,high,False
+Special Investigation Team se bol raha hoon. Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,124,medium,False
+Ji haan suniye Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,amazon,other_scammer,77,medium,False
+Law enforcement se bol raha hoon. Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,186,high,False
+CBI se bol raha hoon. Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,93,medium,False
+Hello ji Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,146,medium,False
+Madam ek minute Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,191,high,False
+Hello ji Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,257,medium,False
+Namaste ma'am Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,134,medium,False
+Namaste sir Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,202,high,False
+National Cyber Cell se bol raha hoon. Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,relative,other_scammer,69,medium,False
+Crime Branch se bol raha hoon. Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,258,high,True
+Ji haan suniye Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,209,high,False
+Madam ek minute Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,104,medium,False
+Ji haan suniye Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,90,medium,False
+Delhi Police se bol raha hoon. Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,214,medium,False
+CBI se bol raha hoon. Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,aadhaar,other_scammer,129,medium,False
+Hello ma'am Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,174,high,True
+Dhyan se suniye Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,amazon,other_scammer,85,medium,False
+ACP Sharma bol raha hoon. Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,198,high,False
+Sir ek minute suniye Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,188,high,True
+Crime Branch se bol raha hoon. Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,211,medium,False
+Aap sun rahe hain na? Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,234,high,False
+Dhyan se suniye Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,244,medium,False
+Madam ek minute Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,188,high,True
+Hello sir Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,112,medium,False
+Special Investigation Team se bol raha hoon. Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,197,medium,False
+Hello sir Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,bank_kyc,bank_scammer,155,medium,False
+National Cyber Cell se bol raha hoon. Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,158,high,True
+Sir ek minute suniye Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,172,medium,False
+Crime Branch se bol raha hoon. Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,149,medium,False
+Hello ma'am Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,187,medium,False
+Cyber Crime Department se bol raha hoon. Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,130,medium,False
+Ji haan suniye Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,96,high,True
+"Delhi Police se bol raha hoon. Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,bank_kyc,bank_scammer,118,medium,False
+Cyber Crime Department se bol raha hoon. Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,169,high,False
+"Ji haan suniye Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,lottery,other_scammer,110,medium,False
+Law enforcement se bol raha hoon. Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,aadhaar,other_scammer,94,medium,False
+Madam ek minute Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,240,high,False
+Law enforcement se bol raha hoon. Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,163,high,False
+Aap sun rahe hain na? Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,244,high,False
+Crime Branch se bol raha hoon. Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,146,medium,False
+Dhyan se suniye Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,98,high,True
+Police headquarters se bol raha hoon. Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,225,high,False
+Inspector Rajesh Kumar bol raha hoon. Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,relative,other_scammer,112,medium,False
+Hello sir Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,133,medium,False
+Ji namaskar Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,223,high,False
+Delhi Police se bol raha hoon. Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,106,high,False
+Hello sir Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,237,high,False
+Special Investigation Team se bol raha hoon. Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,relative,other_scammer,133,medium,False
+"Inspector Rajesh Kumar bol raha hoon. Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,relative,other_scammer,126,medium,False
+Hello sir National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,127,high,False
+Sir ek minute suniye Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,96,high,True
+CBI se bol raha hoon. Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,196,high,False
+Hello ma'am Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,251,high,False
+Namaste sir Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,172,medium,False
+Law enforcement se bol raha hoon. Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,142,high,True
+Namaste ma'am Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,130,high,False
+Delhi Police se bol raha hoon. Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,110,high,False
+Law enforcement se bol raha hoon. National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,135,medium,False
+Law enforcement se bol raha hoon. Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,210,high,False
+Hello ma'am Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,94,high,True
+Madam ek minute Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,lottery,other_scammer,115,medium,False
+Hello sir Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,232,medium,False
+Ji namaskar Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,209,medium,False
+Namaste sir Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,aadhaar,other_scammer,119,medium,False
+Crime Branch se bol raha hoon. Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,128,high,False
+Hello sir Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,129,medium,False
+Aap sun rahe hain na? Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,214,high,True
+Law enforcement se bol raha hoon. Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,lottery,other_scammer,117,medium,False
+Dhyan se suniye Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,159,medium,False
+Hello ma'am Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,239,medium,False
+Dhyan se suniye National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,94,medium,False
+Hello ma'am Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,96,medium,False
+Crime Branch se bol raha hoon. Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,239,high,False
+"Namaste sir Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,bank_kyc,bank_scammer,120,medium,False
+National Cyber Cell se bol raha hoon. Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,198,high,True
+Hello sir Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,222,high,False
+Hello sir Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,164,high,True
+Ji haan suniye Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,195,high,False
+Aap sun rahe hain na? Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,93,high,False
+"National Cyber Cell se bol raha hoon. Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,bank_kyc,bank_scammer,102,medium,False
+Ji namaskar National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,193,medium,False
+National Cyber Cell se bol raha hoon. Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,200,medium,False
+ACP Sharma bol raha hoon. Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,162,high,True
+Inspector Rajesh Kumar bol raha hoon. Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,226,medium,False
+Hello sir Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,208,high,False
+CBI se bol raha hoon. Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,212,medium,False
+Hello ma'am Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,133,medium,False
+Namaste ma'am Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,107,high,False
+Namaste ma'am Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,92,high,True
+Cyber Crime Department se bol raha hoon. Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,223,high,True
+Special Investigation Team se bol raha hoon. Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,relative,other_scammer,126,medium,False
+Inspector Rajesh Kumar bol raha hoon. Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,amazon,other_scammer,112,medium,False
+Madam ek minute Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,137,medium,False
+Inspector Rajesh Kumar bol raha hoon. Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,235,high,True
+Crime Branch se bol raha hoon. Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,117,high,True
+Hello ji Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,245,medium,False
+Madam ek minute Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,166,medium,False
+ACP Sharma bol raha hoon. Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,103,medium,False
+Special Investigation Team se bol raha hoon. Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,199,medium,False
+Police headquarters se bol raha hoon. Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,144,high,True
+Law enforcement se bol raha hoon. Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,250,high,False
+ACP Sharma bol raha hoon. Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,129,high,True
+Dhyan se suniye Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,227,high,False
+Hello sir Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,93,high,False
+CBI se bol raha hoon. Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,167,medium,False
+Namaste ma'am Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,166,high,False
+Madam ek minute Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,162,high,False
+CBI se bol raha hoon. Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,98,high,False
+Hello sir Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,195,high,False
+Ji haan suniye Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,122,high,False
+Aap sun rahe hain na? Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,117,medium,False
+Dhyan se suniye Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,214,high,False
+Cyber Crime Department se bol raha hoon. Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,125,high,False
+Aap sun rahe hain na? Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,bank_kyc,bank_scammer,97,medium,False
+Hello ma'am Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,258,high,False
+Dhyan se suniye Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,256,high,False
+Cyber Crime Department se bol raha hoon. Congratulations! Aapne ₹40 lakh ka lottery jeeta hai. Processing fee dena hoga.,1,relative,other_scammer,136,medium,False
+Cyber Crime Department se bol raha hoon. Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,195,high,False
+National Cyber Cell se bol raha hoon. Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,188,high,False
+Hello sir Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,99,high,False
+Crime Branch se bol raha hoon. National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,120,high,False
+Delhi Police se bol raha hoon. Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,194,high,True
+Hello ji Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,175,medium,False
+ACP Sharma bol raha hoon. National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,190,high,False
+Namaste sir Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,259,high,False
+Crime Branch se bol raha hoon. Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,149,high,True
+Cyber Crime Department se bol raha hoon. Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,235,high,True
+CBI se bol raha hoon. Aapka KYC pending hai. Account 2 ghante mein block ho jayega. OTP share kijiye.,1,bank_kyc,bank_scammer,107,medium,False
+"Cyber Crime Department se bol raha hoon. Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",1,bank_kyc,bank_scammer,170,medium,False
+Aap sun rahe hain na? Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,175,medium,False
+CBI se bol raha hoon. Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,244,high,True
+National Cyber Cell se bol raha hoon. Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,211,high,False
+Aap sun rahe hain na? Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,99,high,True
+Ji haan suniye Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,228,high,False
+Madam ek minute Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,200,high,False
+Special Investigation Team se bol raha hoon. Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,201,high,False
+Inspector Rajesh Kumar bol raha hoon. Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,179,high,False
+Special Investigation Team se bol raha hoon. Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,103,medium,False
+Sir ek minute suniye Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,248,medium,False
+Inspector Rajesh Kumar bol raha hoon. Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,186,medium,False
+Madam ek minute Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,234,high,False
+Dhyan se suniye Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,147,medium,False
+"Hello ma'am Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,amazon,other_scammer,143,medium,False
+Hello ma'am Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,155,high,True
+Aap sun rahe hain na? Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,119,medium,False
+Crime Branch se bol raha hoon. Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,138,high,False
+Ji haan suniye Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,212,high,False
+Police headquarters se bol raha hoon. Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,260,high,False
+CBI se bol raha hoon. Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,92,high,False
+Special Investigation Team se bol raha hoon. Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,183,high,True
+ACP Sharma bol raha hoon. Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,168,high,False
+Sir ek minute suniye Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,184,high,False
+Hello ji Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,186,high,True
+Inspector Rajesh Kumar bol raha hoon. Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,140,high,True
+Madam ek minute Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,251,high,False
+National Cyber Cell se bol raha hoon. Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,255,high,False
+Crime Branch se bol raha hoon. Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,96,high,True
+Namaste ma'am Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,94,medium,False
+Hello sir Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,155,high,False
+Aap sun rahe hain na? Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,110,high,False
+Ji namaskar Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,181,high,False
+Ji haan suniye Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,163,medium,False
+Aap sun rahe hain na? Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,191,high,False
+Namaste ma'am Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,114,medium,False
+Inspector Rajesh Kumar bol raha hoon. Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,154,medium,False
+Cyber Crime Department se bol raha hoon. Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,113,medium,False
+CBI se bol raha hoon. Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,259,high,False
+ACP Sharma bol raha hoon. Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,139,high,False
+Police headquarters se bol raha hoon. Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,90,high,True
+Inspector Rajesh Kumar bol raha hoon. Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,205,high,True
+Crime Branch se bol raha hoon. Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,146,high,False
+Ji namaskar Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,252,high,False
+Hello ji Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,172,medium,False
+Hello ji Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,204,medium,False
+Ji haan suniye Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,163,medium,False
+Law enforcement se bol raha hoon. Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,256,high,False
+Aap sun rahe hain na? Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,149,high,True
+Police headquarters se bol raha hoon. Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,135,high,False
+Delhi Police se bol raha hoon. Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.,1,police_blackmail,police_impersonator,164,high,True
+Special Investigation Team se bol raha hoon. Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,115,high,False
+Law enforcement se bol raha hoon. Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,198,high,False
+ACP Sharma bol raha hoon. Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,129,high,True
+Sir ek minute suniye Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,257,medium,False
+Delhi Police se bol raha hoon. Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,144,medium,False
+Special Investigation Team se bol raha hoon. National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,108,medium,False
+Inspector Rajesh Kumar bol raha hoon. Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,213,medium,False
+Hello ji Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,103,high,False
+Namaste sir Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,144,medium,False
+CBI se bol raha hoon. Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,125,high,False
+Inspector Rajesh Kumar bol raha hoon. Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,97,medium,False
+National Cyber Cell se bol raha hoon. Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,195,high,False
+Hello sir Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,179,medium,False
+Ji haan suniye Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,232,medium,False
+Ji namaskar Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,201,medium,False
+Cyber Crime Department se bol raha hoon. Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,123,high,False
+Cyber Crime Department se bol raha hoon. Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,94,medium,False
+Ji haan suniye Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,139,high,True
+Inspector Rajesh Kumar bol raha hoon. Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,256,medium,False
+Namaste ma'am Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,217,medium,False
+CBI se bol raha hoon. Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,239,medium,False
+Delhi Police se bol raha hoon. Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,114,high,True
+Namaste sir Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,196,high,True
+Madam ek minute Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,229,high,False
+Hello ma'am Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,161,high,False
+Special Investigation Team se bol raha hoon. Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,128,medium,False
+CBI se bol raha hoon. Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,208,high,False
+Cyber Crime Department se bol raha hoon. Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,177,medium,False
+Inspector Rajesh Kumar bol raha hoon. Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,251,medium,False
+Namaste ma'am Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,225,medium,False
+Ji haan suniye Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,175,high,False
+Police headquarters se bol raha hoon. Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,247,high,False
+Ji haan suniye Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,183,medium,False
+Law enforcement se bol raha hoon. Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,141,medium,False
+Special Investigation Team se bol raha hoon. Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,224,medium,False
+"Law enforcement se bol raha hoon. Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",1,aadhaar,other_scammer,147,medium,False
+Namaste ma'am Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,197,high,True
+Inspector Rajesh Kumar bol raha hoon. Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,113,medium,False
+Hello ji Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,129,high,False
+Hello ji Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,260,medium,False
+Dhyan se suniye Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,124,medium,False
+Cyber Crime Department se bol raha hoon. Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,239,high,False
+Crime Branch se bol raha hoon. Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,124,high,False
+Madam ek minute Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,257,medium,False
+Dhyan se suniye Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,92,high,False
+National Cyber Cell se bol raha hoon. Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,113,medium,False
+Namaste sir Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,253,high,False
+Crime Branch se bol raha hoon. Ek gang aapke number ka misuse karke gande videos bana raha hai. Turant verify karna hoga.,1,police_blackmail,police_impersonator,227,high,True
+Delhi Police se bol raha hoon. Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,200,medium,False
+Police headquarters se bol raha hoon. National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,256,medium,False
+Dhyan se suniye Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,184,medium,False
+Hello ma'am Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,139,high,False
+Ji haan suniye Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,145,high,False
+Crime Branch se bol raha hoon. Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,232,medium,False
+Inspector Rajesh Kumar bol raha hoon. Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,165,high,False
+Namaste sir Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,98,high,False
+Delhi Police se bol raha hoon. Aapke phone number se koi asleel gande images aur videos share kiye ja rahe hain. Ye cyber crime hai.,1,police_blackmail,police_impersonator,157,high,True
+Cyber Crime Department se bol raha hoon. Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.,1,police_blackmail,police_impersonator,203,high,True
+Law enforcement se bol raha hoon. Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,192,medium,False
+Police headquarters se bol raha hoon. Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,222,medium,False
+Hello ji Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,119,high,False
+Ji namaskar Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,131,medium,False
+Aap sun rahe hain na? Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,248,medium,False
+Hello ji Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,183,medium,False
+Dhyan se suniye Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,254,high,False
+Aap sun rahe hain na? National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,191,high,False
+Cyber Crime Department se bol raha hoon. Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,136,medium,False
+Police headquarters se bol raha hoon. Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,93,high,True
+Dhyan se suniye Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,157,medium,False
+Namaste sir Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,244,high,False
+Crime Branch se bol raha hoon. Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,189,medium,False
+Dhyan se suniye Aapke WhatsApp se ladies ko asleel messages bheje ja rahe hain. Aapko suspect maana ja raha hai.,1,police_blackmail,police_impersonator,166,high,True
+ACP Sharma bol raha hoon. Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,102,high,False
+Inspector Rajesh Kumar bol raha hoon. Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,169,medium,False
+National Cyber Cell se bol raha hoon. Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,92,high,False
+Cyber Crime Department se bol raha hoon. Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,100,high,False
+ACP Sharma bol raha hoon. Aapko investigation officer se turant baat karni hogi.,1,police_digital_arrest,police_impersonator,243,medium,False
+Namaste ma'am Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,175,high,False
+Ji namaskar Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,148,medium,False
+Aap sun rahe hain na? Aapke naam par money laundering case register hua hai.,1,police_digital_arrest,police_impersonator,145,medium,False
+Hello sir Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,166,high,False
+Dhyan se suniye Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,193,medium,False
+Crime Branch se bol raha hoon. Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,196,medium,False
+Cyber Crime Department se bol raha hoon. Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,152,high,False
+Madam ek minute Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,112,medium,False
+Law enforcement se bol raha hoon. Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,246,high,False
+National Cyber Cell se bol raha hoon. National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,115,high,False
+Aap sun rahe hain na? Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,144,high,False
+Police headquarters se bol raha hoon. Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,147,high,False
+Police headquarters se bol raha hoon. Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,149,high,False
+CBI se bol raha hoon. Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,237,medium,False
+Aap sun rahe hain na? Aapke naam par registered account illegal activities mein use hua hai.,1,police_digital_arrest,police_impersonator,92,high,False
+Namaste sir Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,127,high,False
+Cyber Crime Department se bol raha hoon. Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,91,medium,False
+Ji namaskar Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,179,high,False
+Namaste ma'am Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,216,medium,False
+Delhi Police se bol raha hoon. Aapke khilaaf digital fraud complaint receive hui hai.,1,police_digital_arrest,police_impersonator,258,medium,False
+Cyber Crime Department se bol raha hoon. Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,254,medium,False
+Law enforcement se bol raha hoon. Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,187,medium,False
+Cyber Crime Department se bol raha hoon. Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,176,high,False
+ACP Sharma bol raha hoon. Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,90,medium,False
+ACP Sharma bol raha hoon. Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,171,medium,False
+Ji namaskar Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,242,medium,False
+Crime Branch se bol raha hoon. Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,98,high,False
+Sir ek minute suniye Aapke naam par ek criminal complaint register hui hai.,1,police_digital_arrest,police_impersonator,146,medium,False
+ACP Sharma bol raha hoon. Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,210,medium,False
+Sir ek minute suniye National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,184,high,False
+Sir ek minute suniye Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,142,high,False
+Law enforcement se bol raha hoon. Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,154,high,False
+Cyber Crime Department se bol raha hoon. National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,120,high,False
+Hello ma'am Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,190,medium,False
+Ji namaskar Cyber Crime Department se bol raha hoon. Aapke number se objectionable content circulate hua hai.,1,police_digital_arrest,police_impersonator,156,high,False
+National Cyber Cell se bol raha hoon. Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,95,medium,False
+Delhi Police se bol raha hoon. Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,185,medium,False
+Special Investigation Team se bol raha hoon. Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,107,medium,False
+Dhyan se suniye Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,117,medium,False
+Special Investigation Team se bol raha hoon. Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,128,medium,False
+Sir ek minute suniye Aapka number telecom fraud case mein identify hua hai.,1,police_digital_arrest,police_impersonator,194,high,False
+Police headquarters se bol raha hoon. Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.,1,police_blackmail,police_impersonator,160,high,True
+Crime Branch se bol raha hoon. Aapka Aadhaar deactivate hone wala hai. Turant update kijiye.,1,bank_kyc,bank_scammer,82,medium,False
+Police headquarters se bol raha hoon. Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,167,medium,False
+ACP Sharma bol raha hoon. Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,201,high,False
+Police headquarters se bol raha hoon. Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,119,high,False
+Aap sun rahe hain na? Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,152,high,False
+Namaste sir Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,93,high,False
+Crime Branch se bol raha hoon. Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,143,medium,False
+Hello ji Crime Branch se bol raha hoon. Aapke account se suspicious transactions hui hain.,1,police_digital_arrest,police_impersonator,201,medium,False
+CBI se bol raha hoon. Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,113,medium,False
+ACP Sharma bol raha hoon. Aapke naam par registered SIM ka misuse report hua hai.,1,police_digital_arrest,police_impersonator,233,medium,False
+Hello ma'am Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,221,medium,False
+Sir ek minute suniye Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,260,high,False
+Delhi Police se bol raha hoon. Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,224,high,False
+Police headquarters se bol raha hoon. Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,253,high,False
+Sir ek minute suniye Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,105,high,False
+Law enforcement se bol raha hoon. Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,235,medium,False
+National Cyber Cell se bol raha hoon. Aapke Aadhaar card ka istemal karke fake SIM issue ki gayi hai.,1,police_digital_arrest,police_impersonator,92,high,False
+CBI se bol raha hoon. Aapke khilaaf legal action initiate kiya gaya hai.,1,police_digital_arrest,police_impersonator,150,medium,False
+Madam ek minute Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,259,medium,False
+Special Investigation Team se bol raha hoon. Cyber investigation team ko aapke number se suspicious activity mili hai.,1,police_digital_arrest,police_impersonator,106,medium,False
+Inspector Rajesh Kumar bol raha hoon. Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,126,medium,False
+Special Investigation Team se bol raha hoon. Investigation ke liye aapki identity verify karni hogi.,1,police_digital_arrest,police_impersonator,118,high,False
+Ji haan suniye National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.,1,police_digital_arrest,police_impersonator,209,high,False
+Namaste sir Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.,1,police_digital_arrest,police_impersonator,204,medium,False
+Special Investigation Team se bol raha hoon. Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,141,medium,False
+Sir ek minute suniye Aapke Aadhaar se linked account par complaint mili hai.,1,police_digital_arrest,police_impersonator,249,high,False
+ACP Sharma bol raha hoon. Police verification complete karna zaroori hai.,1,police_digital_arrest,police_impersonator,229,medium,False
+Crime Branch se bol raha hoon. Aapke documents ka misuse karke financial fraud kiya gaya hai.,1,police_digital_arrest,police_impersonator,237,high,False
+Police headquarters se bol raha hoon. Aapka mobile number cyber fraud investigation mein aaya hai.,1,police_digital_arrest,police_impersonator,94,high,False
+CBI se bol raha hoon. Aapka bank account investigation ke dauran freeze kiya ja sakta hai.,1,police_digital_arrest,police_impersonator,109,medium,False

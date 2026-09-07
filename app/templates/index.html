@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ScamShield AI — Scam & Fraud Message Intelligence</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+<div class="shell">
+
+  <div class="topbar">
+    <div class="brand">
+      <div class="brand-mark">
+        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M12 2L4 5V11C4 16.5 7.4 21.2 12 22.5C16.6 21.2 20 16.5 20 11V5L12 2Z" stroke="#04211d" stroke-width="1.8" stroke-linejoin="round"/>
+          <path d="M9 12.2L11 14.2L15.2 9.6" stroke="#04211d" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <div class="brand-text">
+        <h1>ScamShield AI</h1>
+        <p>AI-Powered Scam &amp; Fraud Message Intelligence</p>
+      </div>
+    </div>
+    <div class="status-pill"><span class="status-dot"></span><span id="modelBadgeText">Model ready</span></div>
+  </div>
+
+  <div class="grid">
+    <!-- LEFT: analyzer -->
+    <div class="panel">
+      <h2>Analyze a message</h2>
+      <p class="subtitle">Paste an SMS, WhatsApp, email, or call transcript. The message is analyzed locally by the model and never stored on a server.</p>
+
+      <textarea id="messageInput" maxlength="3000" placeholder="Paste a message here..."></textarea>
+      <div class="char-count"><span id="charCount">0</span> / 3000</div>
+
+      <div class="action-row">
+        <button class="btn btn-primary" id="analyzeBtn">Analyze message</button>
+        <button class="btn btn-ghost" id="clearBtn">Clear</button>
+      </div>
+
+      <div class="example-chips" id="exampleChips">
+        <!-- populated by script.js from /api/examples -->
+      </div>
+
+      <div id="resultArea">
+        <div class="empty-state" id="emptyState">
+          <svg width="34" height="34" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L4 5V11C4 16.5 7.4 21.2 12 22.5C16.6 21.2 20 16.5 20 11V5L12 2Z" stroke="#5f6f95" stroke-width="1.5"/></svg>
+          <div>No message analyzed yet — paste a message above and click Analyze.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- RIGHT: analytics + history -->
+    <div>
+      <div class="panel" style="margin-bottom:22px;">
+        <h2>Model &amp; dataset</h2>
+        <p class="subtitle">Live figures from the trained pipeline — nothing here is hardcoded.</p>
+        <div class="stat-grid" id="statGrid">
+          <div class="stat-box"><div class="value">—</div><div class="label">Loading…</div></div>
+        </div>
+        <div id="modelBadgeWrap"></div>
+      </div>
+
+      <div class="panel">
+        <h2>Prediction history</h2>
+        <p class="subtitle">Kept in this browser only, for this session.</p>
+        <div id="historyList">
+          <div class="history-empty">No predictions yet.</div>
+        </div>
+        <div class="action-row" style="margin-top:12px;">
+          <button class="btn btn-ghost" id="clearHistoryBtn">Clear history</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="charts-section panel">
+    <h2>Analytics dashboard</h2>
+    <p class="subtitle">Charts generated directly from the actual training run (see <code>src/evaluate.py</code>).</p>
+    <div class="charts-grid">
+      <figure class="chart-card">
+        <img src="{{ url_for('static', filename='img/class_distribution.png') }}" alt="Class distribution chart">
+        <figcaption>Class distribution in the cleaned dataset</figcaption>
+      </figure>
+      <figure class="chart-card">
+        <img src="{{ url_for('static', filename='img/model_comparison.png') }}" alt="Model comparison chart">
+        <figcaption>Model comparison — accuracy, macro F1, scam recall</figcaption>
+      </figure>
+      <figure class="chart-card">
+        <img src="{{ url_for('static', filename='img/confusion_matrix.png') }}" alt="Confusion matrix">
+        <figcaption>Confusion matrix on the held-out test set</figcaption>
+      </figure>
+      <figure class="chart-card">
+        <img src="{{ url_for('static', filename='img/roc_curve.png') }}" alt="ROC curve">
+        <figcaption>ROC curve for the selected model</figcaption>
+      </figure>
+      <figure class="chart-card">
+        <img src="{{ url_for('static', filename='img/precision_recall_curve.png') }}" alt="Precision-recall curve">
+        <figcaption>Precision-recall curve for the selected model</figcaption>
+      </figure>
+      <figure class="chart-card">
+        <img src="{{ url_for('static', filename='img/top_features.png') }}" alt="Top predictive features">
+        <figcaption>Most influential words / n-grams driving predictions</figcaption>
+      </figure>
+      <figure class="chart-card">
+        <img src="{{ url_for('static', filename='img/message_analysis.png') }}" alt="Message length and urgency analysis">
+        <figcaption>Message length &amp; urgency-level analysis</figcaption>
+      </figure>
+    </div>
+  </div>
+
+  <footer class="note">ScamShield AI is a machine-learning portfolio project trained on a synthetic Hinglish dataset. It is a decision-support tool, not a guarantee — always verify suspicious messages independently.</footer>
+</div>
+
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

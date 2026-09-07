@@ -1,0 +1,223 @@
+{
+  "project_name": "ScamShield AI",
+  "training_date": "2026-09-07T07:34:08",
+  "dataset": {
+    "source_file": "India_Cyber_Scam_Hinglish_Dataset.csv",
+    "raw_summary": {
+      "n_rows": 10000,
+      "n_cols": 8,
+      "columns": [
+        "text",
+        "label",
+        "scam_category",
+        "caller_type",
+        "audio_duration",
+        "urgency_level",
+        "contains_blackmail",
+        "language_style"
+      ],
+      "dtypes": {
+        "text": "str",
+        "label": "int64",
+        "scam_category": "str",
+        "caller_type": "str",
+        "audio_duration": "int64",
+        "urgency_level": "str",
+        "contains_blackmail": "bool",
+        "language_style": "str"
+      },
+      "missing_values": {
+        "text": 0,
+        "label": 0,
+        "scam_category": 0,
+        "caller_type": 0,
+        "audio_duration": 0,
+        "urgency_level": 0,
+        "contains_blackmail": 0,
+        "language_style": 0
+      },
+      "duplicate_rows": 378,
+      "unique_text_count": 743,
+      "label_distribution": {
+        "0": 5000,
+        "1": 5000
+      }
+    },
+    "cleaned_summary": {
+      "n_rows": 743,
+      "n_cols": 7,
+      "columns": [
+        "text",
+        "label",
+        "scam_category",
+        "caller_type",
+        "audio_duration",
+        "urgency_level",
+        "contains_blackmail"
+      ],
+      "dtypes": {
+        "text": "str",
+        "label": "int64",
+        "scam_category": "str",
+        "caller_type": "str",
+        "audio_duration": "int64",
+        "urgency_level": "str",
+        "contains_blackmail": "bool"
+      },
+      "missing_values": {
+        "text": 0,
+        "label": 0,
+        "scam_category": 0,
+        "caller_type": 0,
+        "audio_duration": 0,
+        "urgency_level": 0,
+        "contains_blackmail": 0
+      },
+      "duplicate_rows": 0,
+      "unique_text_count": 743,
+      "label_distribution": {
+        "1": 633,
+        "0": 110
+      }
+    },
+    "train_size": 594,
+    "test_size": 149
+  },
+  "label_mapping": {
+    "0": "SAFE",
+    "1": "SCAM"
+  },
+  "risk_tier_mapping": {
+    "description": "The dataset provides a binary ground truth (0=legitimate, 1=scam). The model is trained as a binary classifier. For the user-facing product, the model's predicted SCAM probability is bucketed into three risk tiers so the UI can flag borderline messages as SUSPICIOUS rather than forcing a binary call.",
+    "SAFE": "predicted_scam_probability < 0.35",
+    "SUSPICIOUS": "0.35 <= predicted_scam_probability < 0.65",
+    "SCAM": "predicted_scam_probability >= 0.65"
+  },
+  "risk_thresholds": {
+    "suspicious_min": 0.35,
+    "scam_min": 0.65
+  },
+  "feature_approach": {
+    "word_tfidf": "TF-IDF, word 1-2 grams, max_features=8000",
+    "char_tfidf": "TF-IDF, char_wb 3-5 grams, max_features=8000",
+    "handcrafted_features": [
+      "char_length",
+      "word_count",
+      "digit_count",
+      "digit_ratio",
+      "uppercase_ratio",
+      "exclamation_count",
+      "question_count",
+      "url_count",
+      "phone_number_count",
+      "currency_mention_count",
+      "special_char_count",
+      "avg_word_length",
+      "kw_urgency_count",
+      "kw_financial_count",
+      "kw_account_security_count",
+      "kw_authority_impersonation_count",
+      "kw_blackmail_threat_count"
+    ],
+    "total_feature_dims": 3235
+  },
+  "models_compared": {
+    "Logistic Regression": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0,
+      "precision_scam": 1.0,
+      "recall_scam": 1.0,
+      "f1_scam": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "fit_time_seconds": 0.01,
+      "cv_f1_macro_mean": 1.0,
+      "cv_f1_macro_std": 0.0
+    },
+    "Linear SVM": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0,
+      "precision_scam": 1.0,
+      "recall_scam": 1.0,
+      "f1_scam": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "fit_time_seconds": 0.041,
+      "cv_f1_macro_mean": 1.0,
+      "cv_f1_macro_std": 0.0
+    },
+    "Multinomial Naive Bayes": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0,
+      "precision_scam": 1.0,
+      "recall_scam": 1.0,
+      "f1_scam": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "fit_time_seconds": 0.001,
+      "cv_f1_macro_mean": 1.0,
+      "cv_f1_macro_std": 0.0
+    },
+    "Random Forest": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0,
+      "precision_scam": 1.0,
+      "recall_scam": 1.0,
+      "f1_scam": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "fit_time_seconds": 0.677,
+      "cv_f1_macro_mean": 1.0,
+      "cv_f1_macro_std": 0.0
+    },
+    "XGBoost": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0,
+      "precision_scam": 1.0,
+      "recall_scam": 1.0,
+      "f1_scam": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 0.9999999999999998,
+      "fit_time_seconds": 1.357,
+      "cv_f1_macro_mean": 0.9966502463054188,
+      "cv_f1_macro_std": 0.006699507389162563
+    }
+  },
+  "best_model": "Logistic Regression",
+  "best_model_metrics": {
+    "accuracy": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_macro": 1.0,
+    "f1_weighted": 1.0,
+    "precision_scam": 1.0,
+    "recall_scam": 1.0,
+    "f1_scam": 1.0,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "fit_time_seconds": 0.01,
+    "cv_f1_macro_mean": 1.0,
+    "cv_f1_macro_std": 0.0
+  },
+  "class_names": [
+    "SAFE",
+    "SUSPICIOUS",
+    "SCAM"
+  ],
+  "xgboost_available": true
+}
